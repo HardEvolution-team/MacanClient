@@ -1,5 +1,8 @@
 package com.ded.macanclient;
 
+import com.ded.macanclient.features.ModuleManager;
+import com.ded.macanclient.config.ConfigManager;
+import com.ded.macanclient.settings.InputHandler;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.item.crafting.IRecipe;
